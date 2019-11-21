@@ -1,4 +1,4 @@
-# Condições
+# Condições básicas
     
     if(condicao){ //true
         // instruções
