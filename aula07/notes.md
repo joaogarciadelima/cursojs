@@ -1,4 +1,4 @@
-## operadores:
+## Operadores:
 
 # Aritméticos:
 
@@ -13,9 +13,9 @@
     () -> ** -> * / % -> + -
 
 # Atribuição:
-    '''
+    
     var a = 1
-    '''
+    
 # Relacionais:
 
     5 < 2 = False
